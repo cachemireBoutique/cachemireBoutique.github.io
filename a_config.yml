@@ -1,0 +1,11 @@
+title: Cachemire Boutique
+email: aenkash@gmail.com
+description: Magasin de prêt-à-porter à Tuléar. Habillements, vêtements, robes et accessoires pour femmescostumes, vestes et chaussures pour hommes et vêtements, accessoires et jouets pour les enfants!
+  
+twitter_username: cachemireB
+github_username:  cachemireBoutique
+
+
+
+plugins:
+  - jekyll-seo-tag
