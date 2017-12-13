@@ -1,3 +1,4 @@
 # site
 site internet de la boutique
-https://cachemireboutique.github.io/site/
+https://cachemireboutique.github.io
+
